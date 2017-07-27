@@ -10,13 +10,10 @@ All the colors of the world's wisest chicken can be yours. Use wisely. Or in the
 ![alt text](https://github.com/rejectedbanana/Hei-Hei/blob/master/heihei_colormap.png)
 Hei hei approves.
 ![alt text](https://github.com/rejectedbanana/Hei-Hei/blob/master/Heihei.png )
-<<<<<<< HEAD
 
 
 ## tamatoa.m
-"Oh, I see. She's taken a barnacle, and she's covered it in bioluminescent algae. As a diversion"
+Oh, I see. She's taken a barnacle, and she's covered it in bioluminescent algae. As a diversion.
 ![alt text](https://github.com/rejectedbanana/Hei-Hei/blob/master/tamatoa_colormap.png )
-=======
->>>>>>> 3202faca4f32c64b208480f2ac36c3e85566dd75
 
 ![alt text](https://github.com/rejectedbanana/Hei-Hei/blob/master/tamatoa.png )
