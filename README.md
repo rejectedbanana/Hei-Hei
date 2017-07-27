@@ -15,5 +15,5 @@ Hei hei approves.
 ## tamatoa.m
 Oh, I see. She's taken a barnacle, and she's covered it in bioluminescent algae. As a diversion.
 ![alt text](https://github.com/rejectedbanana/Hei-Hei/blob/master/tamatoa_colormap.png )
-
+You can't expect a demigod to beat a decapod.
 ![alt text](https://github.com/rejectedbanana/Hei-Hei/blob/master/tamatoa.png )
